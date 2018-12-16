@@ -1,6 +1,6 @@
 # javafx
 
-##JavaFX - Application building has been made by following tutorial:
+JavaFX - Application building has been made by following tutorial:
 ```
 https://code.makery.ch/library/javafx-tutorial/
 ```
